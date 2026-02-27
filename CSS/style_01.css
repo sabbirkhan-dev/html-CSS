@@ -1,0 +1,30 @@
+
+.box h1 {
+    color: purple;
+    background-color: rgb(186, 186, 18);
+    display: inline;
+    padding: 8px 16px;
+    border-radius: 5px;
+}
+.box p {
+    color: aqua;
+    margin-top: 10px;
+}
+
+.card {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(19, 54, 19);
+    color: rgb(255, 255, 255);
+    margin: 20px auto;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.card  {
+    color: rgb(119, 119, 226);
+}
+
+.para {
+    color: #90b69b;
+}
